@@ -1,0 +1,17 @@
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\TestProject.deps.json
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\TestProject.runtimeconfig.json
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\TestProject.runtimeconfig.dev.json
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\TestProject.dll
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\TestProject.pdb
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\ShareMoney.dll
+D:\Projects\CSharp\ShareMoney\TestProject\bin\Debug\netcoreapp2.2\ShareMoney.pdb
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.csprojAssemblyReference.cache
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.AssemblyInfoInputs.cache
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.AssemblyInfo.cs
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.csproj.CopyComplete
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.dll
+D:\Projects\CSharp\ShareMoney\TestProject\obj\Debug\netcoreapp2.2\TestProject.pdb

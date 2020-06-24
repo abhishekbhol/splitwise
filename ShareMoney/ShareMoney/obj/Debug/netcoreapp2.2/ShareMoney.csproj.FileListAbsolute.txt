@@ -1,0 +1,11 @@
+D:\Projects\CSharp\ShareMoney\ShareMoney\bin\Debug\netcoreapp2.2\ShareMoney.deps.json
+D:\Projects\CSharp\ShareMoney\ShareMoney\bin\Debug\netcoreapp2.2\ShareMoney.runtimeconfig.json
+D:\Projects\CSharp\ShareMoney\ShareMoney\bin\Debug\netcoreapp2.2\ShareMoney.runtimeconfig.dev.json
+D:\Projects\CSharp\ShareMoney\ShareMoney\bin\Debug\netcoreapp2.2\ShareMoney.dll
+D:\Projects\CSharp\ShareMoney\ShareMoney\bin\Debug\netcoreapp2.2\ShareMoney.pdb
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.AssemblyInfoInputs.cache
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.AssemblyInfo.cs
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.dll
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.pdb
+D:\Projects\CSharp\ShareMoney\ShareMoney\obj\Debug\netcoreapp2.2\ShareMoney.csprojAssemblyReference.cache
